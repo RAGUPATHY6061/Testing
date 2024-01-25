@@ -103,6 +103,7 @@ const App = () => {
       <ReactQueryDevtools initialIsOpen={false} />
       <h1>Hello</h1>
     <h2>hello</h2>
+    <h3>hekop</h3>
     </QueryClientProvider>
   );
 };
