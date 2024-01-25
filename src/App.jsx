@@ -102,6 +102,7 @@ const App = () => {
       <RouterProvider router={router} />
       <ReactQueryDevtools initialIsOpen={false} />
       <h1>Hello</h1>
+    <h2>hello</h2>
     </QueryClientProvider>
   );
 };
